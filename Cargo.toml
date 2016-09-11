@@ -1,0 +1,9 @@
+[package]
+name = "babel"
+version = "0.1.0"
+authors = ["Brandon Aldrich <brandon@aldr.io>"]
+
+[dependencies]
+num = "0.1"
+rand = "0.3"
+clap = "2.11.3"
