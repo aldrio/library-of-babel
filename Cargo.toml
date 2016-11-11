@@ -3,6 +3,14 @@ name = "babel"
 version = "0.1.0"
 authors = ["Brandon Aldrich <brandon@aldr.io>"]
 
+[lib]
+name = "babel"
+path = "src/lib.rs"
+
+[[bin]]
+name = "babel"
+path = "src/main.rs"
+
 [dependencies]
 num = "0.1"
 rand = "0.3"
