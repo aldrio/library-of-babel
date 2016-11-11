@@ -1,6 +1,6 @@
 # The Library of Babel
 
-A Rust implementation of [The Library of Babel](https://libraryofbabel.info/).
+A Rust implementation of [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel/).
 
 ## Usage
 
